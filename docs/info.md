@@ -11,10 +11,17 @@ You can also include images in this folder and reference them in the markdown. E
 
 Explain how your project works
 
+There is a simple counter build with FlipFlops whuch is triggered by a pushbutton and then the number displayed on a 7 segment display
+
 ## How to test
 
 Explain how to use your project
 
+push the button and see if it counts right
+
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+
+a pushbutton and a 7 segment display is needed
+the pushbutton might be debounced by a condensator
